@@ -1,49 +1,41 @@
-# Guide du formateur
+# Instructor Guide — HFL-KDQ-01
 
-## Mission du formateur
+## Guide d’animation et de contrôle du parcours
 
-Le formateur ne se limite pas à transmettre une information.
+## Rôle du formateur
 
-Il doit :
+Le formateur cadre les objectifs, rend les standards visibles, facilite la production et protège le temps de pratique.
 
-- expliquer ;
-- contextualiser ;
-- faire pratiquer ;
-- observer ;
-- donner du feedback ;
-- ajuster l'accompagnement ;
-- valider la progression.
+Il ne remplace pas l’apprenant dans les décisions : il questionne, montre un exemple, puis laisse la responsabilité de la solution.
 
-## Structure recommandée d'une séance
+## Conseils clés
 
-### Avant
-- vérifier l'objectif ;
-- préparer les ressources ;
-- préparer l'activité pratique ;
-- définir le résultat attendu.
+- Toujours relier une consigne à un usage réel : qui cherchera cette information, dans quel contexte et avec quel niveau d’urgence ?
+- Préférer une petite unité documentaire testée à un corpus volumineux non relu.
+- Faire verbaliser les critères de qualité avant la rédaction afin d’éviter les corrections tardives.
 
-### Pendant
-1. Cadrer la séance.
-2. Enseigner les notions essentielles.
-3. Montrer un exemple.
-4. Faire pratiquer.
-5. Observer le raisonnement.
-6. Donner un feedback immédiat.
+## Gestion des blocages
 
-### Après
-- enregistrer les observations ;
-- identifier les difficultés ;
-- suivre le livrable ;
-- définir la prochaine action.
+| Signal observé | Réponse recommandée | Preuve de sortie |
+|---|---|---|
+| Périmètre flou | Revenir à l’objectif utilisateur et limiter le cas d’usage. | Phrase de périmètre validée |
+| Structure instable | Proposer deux architectures et comparer leurs parcours de recherche. | Choix argumenté |
+| Rédaction trop générale | Demander une action, un responsable, une condition et un résultat observable. | Procédure testable |
+| Doute sur la qualité | Exécuter la checklist QA sur un exemple avant de poursuivre. | Écart identifié et corrigé |
+| Retard | Réduire le lot, protéger le livrable critique et replanifier le reste. | Plan d’action daté |
 
-## Règle pédagogique
+## Checklist formateur
 
-Ne faites pas le travail à la place de l'apprenant.
+- [ ] Présenter le résultat attendu et le critère d’acceptation.
+- [ ] Vérifier la compréhension par reformulation.
+- [ ] Réserver un temps de production silencieuse.
+- [ ] Faire relire au moins un livrable par un tiers.
+- [ ] Consigner les décisions dans le journal de bord.
+- [ ] Clôturer la séance par une action suivante clairement nommée.
+- [ ] Avant la review : vérifier noms de fichiers, version, cohérence et absence de contenu non traité.
 
-Le bon équilibre est :
+## Progression pédagogique
 
-> **Montrer → Faire avec → Laisser faire → Reviewer**
+**Expliquer → Démontrer → Faire avec → Laisser faire → Observer → Donner du feedback → Faire corriger**
 
-## Critère de réussite
-
-Une séance est réussie lorsque l'apprenant peut appliquer la compétence dans une situation réelle.
+Le niveau d’accompagnement doit progressivement diminuer afin de développer l’autonomie.
