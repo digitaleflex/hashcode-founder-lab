@@ -1,54 +1,43 @@
-# Guide de l'apprenant
+# Learner Guide — HFL-KDQ-01
 
-## Votre rôle
+## Parcours : apprendre, produire, transmettre
 
-Vous n'êtes pas simplement là pour lire des cours.
+### Tes objectifs
 
-Votre mission est de développer une compétence en réalisant un travail concret.
+- Savoir organiser une information pour qu’une autre personne la retrouve et l’utilise.
+- Produire des documents professionnels, cohérents et maintenables.
+- Utiliser les prompts comme des outils contrôlables, pas comme des raccourcis non vérifiés.
+- Développer un réflexe de QA et de versioning.
 
-## Le cycle d'apprentissage
+## Ton rôle
 
-### 1. Apprendre
-Comprendre les notions et les objectifs.
+Tu es la propriétaire opérationnelle des livrables : tu proposes la structure, tu prends les décisions, tu testes les contenus et tu demandes du feedback.
 
-### 2. Pratiquer
-Faire les exercices proposés.
+Le résultat attendu n’est pas la perfection immédiate, mais une version claire, vérifiable et améliorable.
 
-### 3. Produire
-Créer un résultat concret ou un livrable.
+## Conseils pour réussir
 
-### 4. Recevoir du feedback
-Comprendre ce qui fonctionne et ce qui doit être amélioré.
+### Travaille par petits lots
 
-### 5. Améliorer
-Corriger et renforcer votre travail.
+Termine une unité utile avant de multiplier les pages.
 
-### 6. Progresser
-Valider progressivement vos compétences.
+### Écris pour le prochain lecteur
 
-## Comment suivre une séance
+Une consigne doit permettre d’agir sans interprétation inutile.
 
-Chaque séance peut contenir :
+### Teste tes hypothèses
 
-1. Objectifs
-2. Cours
-3. Exemples
-4. Exercices
-5. Activité pratique
-6. Livrable
-7. Feedback
-8. Validation
+Fais relire et observe où le lecteur hésite.
 
-Ne cherchez pas à produire quelque chose de parfait dès la première tentative.
+### Garde les preuves
 
-Une première version réfléchie est préférable à l'absence de travail.
+Conserve exemples, décisions et résultats de test dans le journal de bord.
 
-## En cas de blocage
+## Checklist personnelle
 
-1. Relisez l'objectif.
-2. Identifiez précisément ce que vous ne comprenez pas.
-3. Faites une première tentative.
-4. Documentez votre difficulté.
-5. Demandez du feedback.
-
-La qualité du raisonnement compte autant que la réponse finale.
+- [ ] Je peux expliquer le périmètre du curriculum en une minute.
+- [ ] Chaque document a un objectif, un public et un propriétaire identifiés.
+- [ ] Les titres, noms de fichiers et versions sont cohérents.
+- [ ] J’ai testé au moins un parcours de recherche et une consigne.
+- [ ] J’ai appliqué la checklist QA et traité les écarts.
+- [ ] Je sais présenter les choix et le plan de maintenance.
