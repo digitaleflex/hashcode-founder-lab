@@ -1,0 +1,66 @@
+version: v1.0
+programs:
+  - id: HFL-KDQ-01
+    type: program
+    name: Knowledge, Documentation & Quality
+    version: v1.0
+    status: active
+sessions:
+  - id: HFL-KDQ-01-S01
+    type: session
+    name: Cadrage
+    parent: HFL-KDQ-01
+    version: v1.0
+    status: active
+  - id: HFL-KDQ-01-S02
+    type: session
+    name: Architecture
+    parent: HFL-KDQ-01
+    version: v1.0
+    status: draft
+  - id: HFL-KDQ-01-S03
+    type: session
+    name: Rédaction
+    parent: HFL-KDQ-01
+    version: v1.0
+    status: draft
+  - id: HFL-KDQ-01-S04
+    type: session
+    name: Prompts & QA
+    parent: HFL-KDQ-01
+    version: v1.0
+    status: draft
+  - id: HFL-KDQ-01-S05
+    type: session
+    name: Consolidation
+    parent: HFL-KDQ-01
+    version: v1.0
+    status: draft
+  - id: HFL-KDQ-01-S06
+    type: session
+    name: Review finale
+    parent: HFL-KDQ-01
+    version: v1.0
+    status: draft
+deliverables:
+  - id: HFL-KDQ-01-LIV01
+    type: deliverable
+    name: Bibliothèque de 10 prompts utiles
+    parent: HFL-KDQ-01
+  - id: HFL-KDQ-01-LIV02
+    type: deliverable
+    name: Checklist QA
+    parent: HFL-KDQ-01
+  - id: HFL-KDQ-01-LIV03
+    type: deliverable
+    name: Squelette du guide d'intégration
+    parent: HFL-KDQ-01
+  - id: HFL-KDQ-01-LIV04
+    type: deliverable
+    name: Modèle de journal de bord
+    parent: HFL-KDQ-01
+assessments:
+  - id: HFL-KDQ-01-S01-EVAL01
+    type: assessment
+    name: Évaluation — Cadrage
+    parent: HFL-KDQ-01-S01
