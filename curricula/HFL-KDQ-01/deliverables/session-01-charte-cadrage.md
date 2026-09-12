@@ -18,7 +18,7 @@ HashCode produit progressivement des méthodes, procédures, décisions, bonnes 
 
 ## 02. Problématique
 
-Les nouveaux membres manquent de repères, les tests ne sont pas standardisés, les bons prompts sont perdus et les apprentissages ne sont pas tracés. Cela engendre une perte de temps et d'informations considérable.
+Les nouveaux membres manquent de repères, les tests ne sont pas standardisés, les bons prompts sont perdus et les apprentissages ne sont pas tracés. Cela engendre une perte de temps et d'informations considérable affectant ainsi l'efficacité du travail.
 
 ## 03. Objectif général
 
@@ -45,10 +45,10 @@ Produire quatre supports documentaires :
 
 ## 06. Parties prenantes
 
-- **Producteur:** Lead knowledge 
-- **Utilisateurs:** équipes HashCode, 
-- **Validateur:** responsable technique, 
-- **Mainteneur:** Lead knowledge
+- **Producteur:** Lead knowledge Management
+- **Utilisateurs:** Nouveau membre, testeur QA, l'équipe HashCode, les membres de Hashcode.
+- **Validateur:** Responsable technique 
+- **Mainteneur:** Lead knowledge Management
 
 ## 07. Typologie des connaissances
 
@@ -59,31 +59,31 @@ Produire quatre supports documentaires :
 
 ## 08. Besoins identifiés
 
-* **Cas A :**  Un guide d'intégration pour les nouveau membres
+* **Cas A :**  Orientation des nouveaux membres
 
-* **Cas B :**  Une checklist QA standardisée listant les parcours critiques à tester.
+* **Cas B :**  Procédure standard pour les testeur QA.
 
-* **Cas C :**  Une bibliothèque de prompt.
+* **Cas C :**  Une bibliothèque de 10 prompts pour l'équipe Hashcode
 
-* **Cas D :** Un modèle de journal de bord structuré pour capturer les apprentissages et blocages.
+* **Cas D :**  Un modèle de journal de bord structuré pour capturer les apprentissages et blocages.
 
 ## 09. Objectifs opérationnels
 
-|Cas|Livrable|Impact|Urgence|Effort	|Priorité|
-|---|--------|------|-------|-------|--------|
-|A|Squelette guide intégration|Élevé|Élevée|Moyen|P1|
-|B|Checklist QA|Moyen|Faible|Moyen|P2|
-|C|Bibliothèque de prompts|Élevé|Faible|Faible|P2|
-|D|Modèle journal de bord|Élevé|Moyenne|Faible|P1|
+|Cas|Livrable|
+|---|--------|
+|A|Squelette guide intégration|
+|B|Checklist QA|
+|C|Bibliothèque de 10 prompts|
+|D|Modèle journal de bord|
 
 ## 10. Priorisation
 
-|Cas|Priorité|
-|---|--------|
-|A|P1|
-|B|P2|
-|C|P2|
-|D|P1|
+|Cas|Impact|Urgence|Effort|Priorité|
+|---|------|-------|------|--------|
+|A|Élevé|Élevée|Moyen|P1|
+|B|Moyen|Faible|Moyen|P2|
+|C|Élevé|Faible|Faible|P2|
+|D|Élevé|Moyenne|Faible|P1|
 
 ## 11. Résultats attendus
 
@@ -91,19 +91,13 @@ Produire quatre supports documentaires :
 
 * **Cas B :**  Une checklist standardisée listant les parcours critiques à tester.
 
-* **Cas C :**  Information, bibliothèque de prompt.
+* **Cas C :**  Une bibliothèque de 10 prompt.
 
 * **Cas D :** Un modèle de journal de bord structuré pour capturer les apprentissages et blocages.
 
-## 12. Critères de réussite
+## 12. Indicateurs de réussite
 
-La charte sera considérée comme réussie si elle est:
-- Pertinente
-- Claire
-- Actionnable
-- Traçable
-
-## 13. Indicateurs de réussite
+La charte sera considérée comme réussie si elle respecte ses indications:
 
 * ``Pertinence :`` Chaque problème identifié (Cas A à D) correspond à un livrable listé dans le périmètre.
 
@@ -111,40 +105,35 @@ La charte sera considérée comme réussie si elle est:
 
 * ``Priorisation :`` Les 4 livrables sont classés P1 ou P2 avec une justification explicite (Impact/Urgence/Effort).
 
-* ``Actionnabilité :`` La section « Prochaines étapes » indique clairement par quel livrable commencer (ce que tu as fait).
+* ``Actionnabilité :`` La section « Prochaines étapes » indique clairement par quel livrable commencer .
 
-* ``Traçabilité :`` Le document porte un nom conforme (session-01-charte-cadrage.md) et indique l'auteur et la date de création.
+* ``Traçabilité :`` Le document porte un nom conforme (ex:session-01-charte-cadrage.md) et indique l'auteur et la date de création.
 
-## 14. Méthode de travail
+* ``Validation :`` le document est vérifié et validé.
+
+## 13. Méthode de travail
 
 Travail collaboratif sur GitHub.
 
-## 15. Règles de documentation
+## 14. Règles de documentation
 
-Règles de clarté, nommage, versioning, QA et traçabilité.
+Règles de clarté, nommage, versioning, et traçabilité.
 
 Voir [Nomenclature](nomenclature/README.md)
 
-## 16. Gouvernance
-
-- **Producteur:** Lead knowledge 
-- **Utilisateurs:** équipes HashCode, 
-- **Validateur:** responsable technique, 
-- **Mainteneur:** Lead knowledge
-
-## 17. Risques identifiés
+## 15. Risques identifiés
 
 Aucun identifié.
 
-## 18. Prochaines étapes
+## 16. Prochaines étapes
 
 Commencer par les cas A et D (ceux avec les prioritésles P1). Puis après entamer les cas B et C pour la suite.
 
-## 19. Validation
+## 17. Validation
 
 Décision de validation par le responsable technique.
 
-## 20. Synthèse exécutive
+## 18. Synthèse exécutive
 
 Les nouveaux membres manquent de repères, les tests ne sont pas standardisés, les bons prompts sont perdus et les apprentissages ne sont pas tracés.
 
@@ -153,5 +142,7 @@ Production de quatre supports documentaires :
 - Checklist QA
 - Bibliothèque de prompts
 - Journal de bord
+
+
 ---
-*Fait par Essenam Joanice AlOTCHO | KDQ Hashcode*
+*Fait par Essenam P. Joanice AlOTCHO | Documentation & Knowledge Lead Hashcode*
