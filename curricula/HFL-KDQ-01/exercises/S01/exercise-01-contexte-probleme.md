@@ -7,11 +7,11 @@ version: v1.0
 status: active
 ---
 
-# Exercice — Contexte ou problème ?
+# Exercice — Définir un cadrage
 
 ## Objectif
 
-Distinguer le **contexte** du **problème à résoudre**.
+Appliquer les notions de SO1 du programme HFL-KDQ-01.
 
 ## Consigne
 
@@ -37,3 +37,34 @@ La réponse doit distinguer clairement :
 ## Preuve
 
 Une synthèse réutilisable dans la charte de cadrage.
+
+
+# Situations concrètes - Contexte, problème, besoin, quelle est la différence ?
+
+## Objectif
+
+Comprendre qu'une situation générale n'est pas automatiquement un problème, et qu'un problème n'est pas automatiquement un besoin.
+
+## Consigne
+Pour chacun des cas suivants, identifier:
+
+``Contexte - Problème - Besoin``
+
+- **Cas A:** Les nouveaux ne savent pas quelles étapes suivre à leur intégration dans Hashcode et necessite de l'aide pour se repérer.
+
+- **Cas B:** Les membres oublient régulièrement de noter leur blocages et apprentissages.
+
+- **Cas C:** HashCode produit progressivement des méthodes, procédures, décisions, bonnes pratiques, guides, standards, retours d'expérience, ressources pédagogiques et résultats de tests. Ces connaissances sont dispersées entre plusieurs personnes, documents et support.
+
+## Critère attendu
+Les réponses attendues distingueront clairement:
+- Contexte
+- Problème
+- Besoin
+
+## Preuve de test
+ 
+ Voir [Test fait](curricula/HFL-KDQ-01/deliverables/session-01-charte-cadrage.md)
+ 
+---
+*Fait par Essenam P. Joanice ALOTCHO | Documentation & Knowledge Management Lead*
