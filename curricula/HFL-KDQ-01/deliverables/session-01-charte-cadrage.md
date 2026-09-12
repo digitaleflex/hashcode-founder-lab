@@ -13,82 +13,136 @@ status: review
 
 ## 01. Contexte
 
-À renseigner à partir du contexte stratégique, organisationnel et opérationnel validé pour HFL-KDQ-01.
+HashCode produit progressivement des méthodes, procédures, décisions, bonnes pratiques, guides, standards, retours d'expérience, ressources pédagogiques et résultats de tests. Ces connaissances peuvent être dispersées entre plusieurs personnes, documents et supports. Cette dispersion peut provoquer des pertes d'information, des répétitions et des difficultés de transmission.
+
 
 ## 02. Problématique
 
-Formulation exacte de la problématique, des irritants observés, de leurs causes et conséquences.
+Les nouveaux membres manquent de repères, les tests ne sont pas standardisés, les bons prompts sont perdus et les apprentissages ne sont pas tracés. Cela engendre une perte de temps et d'informations considérable affectant ainsi l'efficacité du travail.
 
 ## 03. Objectif général
 
-Objectif général validé du programme.
+Produire quatre supports documentaires :
+- Guide d’intégration
+- Checklist QA
+- Bibliothèque de prompts
+- Journal de bord
 
 ## 04. Périmètre
 
-Activités, populations, processus, outils, données et livrables inclus.
+- Guide d’intégration pour les nouveaux membres
+- Checklist QA pour l'équipe de test QA
+- Bibliothèque de prompts pour les membres de Hashcode
+- Journal de bord pour tout les membres de Hashcode afin de tracer leur apprentissage
 
 ## 05. Hors périmètre
 
-Éléments explicitement exclus, limites de responsabilité et sujets reportés.
+- la création d'un système complet de Knowledge Management ;
+- la documentation exhaustive de JoinHashCode ;
+- la création d'une encyclopédie ;
+- l'automatisation complète de la documentation ;
+- la migration de toutes les anciennes ressources.
 
 ## 06. Parties prenantes
 
-| Partie prenante / rôle | Attentes / contribution | Modalité d’implication |
-|---|---|---|
-| À renseigner | À renseigner | À renseigner |
+- **Producteur:** Lead knowledge Management
+- **Utilisateurs:** Nouveau membre, testeur QA, l'équipe HashCode, les membres de Hashcode.
+- **Validateur:** Responsable technique 
+- **Mainteneur:** Lead knowledge Management
 
 ## 07. Typologie des connaissances
 
-Catégories retenues : explicites, tacites, procédurales, métier, décisionnelles, relationnelles ou autres catégories validées.
+* **Cas A :** Information, Procédure, Preuve
+* **Cas B :** Information + Procédure
+* **Cas C :** Information
+* **Cas D :** Preuve
 
 ## 08. Besoins identifiés
 
-Besoins priorisés, leur origine, les bénéficiaires concernés et le niveau d’urgence.
+* **Cas A :**  Orientation des nouveaux membres
+
+* **Cas B :**  Procédure standard pour les testeur QA.
+
+* **Cas C :**  Une bibliothèque de 10 prompts pour l'équipe Hashcode
+
+* **Cas D :**  Un modèle de journal de bord structuré pour capturer les apprentissages et blocages.
 
 ## 09. Objectifs opérationnels
 
-Objectifs opérationnels, résultat cible, responsable et échéance.
+|Cas|Livrable|
+|---|--------|
+|A|Squelette guide intégration|
+|B|Checklist QA|
+|C|Bibliothèque de 10 prompts|
+|D|Modèle journal de bord|
 
 ## 10. Priorisation
 
-Priorités P1, P2 et suivantes selon la valeur et l’urgence validées.
+|Cas|Impact|Urgence|Effort|Priorité|
+|---|------|-------|------|--------|
+|A|Élevé|Élevée|Moyen|P1|
+|B|Moyen|Faible|Moyen|P2|
+|C|Élevé|Faible|Faible|P2|
+|D|Élevé|Moyenne|Faible|P1|
 
 ## 11. Résultats attendus
 
-Résultats observables attendus du chantier.
+* **Cas A :**  Un guide d'intégration qui regroupe les informations, les procédures et les preuves nécessaires pour la première semaine.
 
-## 12. Critères de réussite
+* **Cas B :**  Une checklist standardisée listant les parcours critiques à tester.
 
-Conditions permettant de déterminer que le résultat répond au besoin.
+* **Cas C :**  Une bibliothèque de 10 prompt.
 
-## 13. Indicateurs de réussite
+* **Cas D :** Un modèle de journal de bord structuré pour capturer les apprentissages et blocages.
 
-Indicateurs et preuves permettant de vérifier les critères.
+## 12. Indicateurs de réussite
 
-## 14. Méthode de travail
+La charte sera considérée comme réussie si elle respecte ses indications:
 
-Méthode retenue pour apprendre, produire, reviewer et améliorer.
+* ``Pertinence :`` Chaque problème identifié (Cas A à D) correspond à un livrable listé dans le périmètre.
 
-## 15. Règles de documentation
+* ``Clarté :`` Un nouveau membre de l'équipe, sans explication, comprend le périmètre et le hors-périmètre en une seule lecture.
 
-Règles de clarté, nommage, versioning, QA et traçabilité.
+* ``Priorisation :`` Les 4 livrables sont classés P1 ou P2 avec une justification explicite (Impact/Urgence/Effort).
 
-## 16. Gouvernance
+* ``Actionnabilité :`` La section « Prochaines étapes » indique clairement par quel livrable commencer .
 
-Rôles de décision, production, validation et maintenance.
+* ``Traçabilité :`` Le document porte un nom conforme (ex:session-01-charte-cadrage.md) et indique l'auteur et la date de création.
 
-## 17. Risques identifiés
+* ``Validation :`` le document est vérifié et validé.
 
-Risques, dépendances, hypothèses et actions de réduction.
+## 13. Méthode de travail
 
-## 18. Prochaines étapes
+Travail collaboratif sur GitHub.
 
-Actions suivantes, responsables et dates.
+## 14. Règles de documentation
 
-## 19. Validation
+Règles de clarté, nommage, versioning, et traçabilité.
 
-Décision de validation, réserves éventuelles et responsables.
+Voir [Nomenclature](nomenclature/README.md)
 
-## 20. Synthèse exécutive
+## 15. Risques identifiés
 
-Résumé du besoin, du périmètre, des priorités et des décisions.
+Aucun identifié.
+
+## 16. Prochaines étapes
+
+Commencer par les cas A et D (ceux avec les prioritésles P1). Puis après entamer les cas B et C pour la suite.
+
+## 17. Validation
+
+Décision de validation par le responsable technique.
+
+## 18. Synthèse exécutive
+
+Les nouveaux membres manquent de repères, les tests ne sont pas standardisés, les bons prompts sont perdus et les apprentissages ne sont pas tracés.
+
+Production de quatre supports documentaires :
+- Guide d’intégration
+- Checklist QA
+- Bibliothèque de prompts
+- Journal de bord
+
+
+---
+*Fait par Essenam P. Joanice AlOTCHO | Documentation & Knowledge Lead Hashcode*
